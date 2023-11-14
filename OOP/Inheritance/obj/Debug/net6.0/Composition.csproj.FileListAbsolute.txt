@@ -1,0 +1,14 @@
+D:\Development\composition\Composition\Composition\bin\Debug\net6.0\Composition.exe
+D:\Development\composition\Composition\Composition\bin\Debug\net6.0\Composition.deps.json
+D:\Development\composition\Composition\Composition\bin\Debug\net6.0\Composition.runtimeconfig.json
+D:\Development\composition\Composition\Composition\bin\Debug\net6.0\Composition.dll
+D:\Development\composition\Composition\Composition\bin\Debug\net6.0\Composition.pdb
+D:\Development\composition\Composition\Composition\obj\Debug\net6.0\Composition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\composition\Composition\Composition\obj\Debug\net6.0\Composition.AssemblyInfoInputs.cache
+D:\Development\composition\Composition\Composition\obj\Debug\net6.0\Composition.AssemblyInfo.cs
+D:\Development\composition\Composition\Composition\obj\Debug\net6.0\Composition.csproj.CoreCompileInputs.cache
+D:\Development\composition\Composition\Composition\obj\Debug\net6.0\Composition.dll
+D:\Development\composition\Composition\Composition\obj\Debug\net6.0\refint\Composition.dll
+D:\Development\composition\Composition\Composition\obj\Debug\net6.0\Composition.pdb
+D:\Development\composition\Composition\Composition\obj\Debug\net6.0\Composition.genruntimeconfig.cache
+D:\Development\composition\Composition\Composition\obj\Debug\net6.0\ref\Composition.dll
